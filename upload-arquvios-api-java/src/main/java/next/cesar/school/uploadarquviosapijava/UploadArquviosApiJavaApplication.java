@@ -8,6 +8,8 @@ public class UploadArquviosApiJavaApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(UploadArquviosApiJavaApplication.class, args);
+		
+		
 	}
 
 }
